@@ -4,7 +4,7 @@ Command-line String Hasher written inm AutoIt3
 <pre>
 String Hash Tool - ALBANESE Lab © 2008-2019
 
-Usage:      StringHash.exe --str \<string\> --alg \<algorithm\>
+Usage:      StringHash.exe --str &lt;string&gt; --alg &lt;algorithm&gt;
 
 Algorithms: MD2, MD4, MD5, SHA1, SHA-256, SHA-384, SHA-512
 
