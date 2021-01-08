@@ -1,5 +1,5 @@
 # StringHashCLI
-Command-line String Hasher written inm AutoIt3
+Command-line String Hasher written in AutoIt3
 
 <pre>
 String Hash Tool - ALBANESE Lab © 2008-2019
