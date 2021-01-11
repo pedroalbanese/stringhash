@@ -2,7 +2,7 @@
 Command-line String Hasher written in AutoIt3
 
 <pre>
-String Hash Tool - ALBANESE Lab © 2008-2019
+String Hash Tool - ALBANESE Lab © 2018-2019
 
 Usage:      StringHash.exe --str &lt;string&gt; --alg &lt;algorithm&gt;
 
