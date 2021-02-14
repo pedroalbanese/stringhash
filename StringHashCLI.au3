@@ -42,9 +42,9 @@ EndIf
 
 _Crypt_Startup()
 
-Example()
+Hash()
 
-Func Example()
+Func Hash()
 	Local $sOutput
 	While True
 		$sOutput &= ConsoleRead()
