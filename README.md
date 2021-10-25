@@ -14,3 +14,7 @@ Example:    StringHash.exe --str MyString001 (Default MD5)
 Written by Pedro Albanese
 http://albanese.atwebpages.com
 </pre>
+
+## License
+
+This project is licensed under the ISC License.
