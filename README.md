@@ -1,5 +1,10 @@
 # StringHashCLI
-Command-line String Hasher written in AutoIt3
+[![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](https://github.com/pedroalbanese/stringhash
+/blob/master/LICENSE.md) 
+[![GitHub downloads](https://img.shields.io/github/downloads/pedroalbanese/stringhash/total.svg?logo=github&logoColor=white)](https://github.com/pedroalbanese/stringhash/releases)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/pedroalbanese/stringhash)](https://github.com/pedroalbanese/stringhash/releases)
+
+### Command-line String Hasher written in AutoIt3
 
 <pre>
 String Hash Tool - ALBANESE Lab © 2018-2019
@@ -18,3 +23,5 @@ http://albanese.atwebpages.com
 ## License
 
 This project is licensed under the ISC License.
+
+#### Copyright (c) 2016-2022 Pedro F. Albanese - ALBANESE Research Lab.
