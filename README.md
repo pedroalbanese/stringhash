@@ -1,6 +1,5 @@
 # StringHashCLI
-[![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](https://github.com/pedroalbanese/stringhash
-/blob/master/LICENSE.md) 
+[![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](https://github.com/pedroalbanese/stringhash/blob/master/LICENSE.md) 
 [![GitHub downloads](https://img.shields.io/github/downloads/pedroalbanese/stringhash/total.svg?logo=github&logoColor=white)](https://github.com/pedroalbanese/stringhash/releases)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/pedroalbanese/stringhash)](https://github.com/pedroalbanese/stringhash/releases)
 
